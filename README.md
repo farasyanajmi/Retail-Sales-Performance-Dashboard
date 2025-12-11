@@ -1,5 +1,7 @@
 # 🚀 E-Commerce Sales Performance Dashboard
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/0fdbd75f-5b24-413e-89ef-23c60afff4e7" />
+
 This project delivers a comprehensive, interactive dashboard built entirely in **Microsoft Excel**. It is designed to analyze over one year of raw online retail transaction data, employing advanced **Power Query (M-Language)** for robust data cleansing and **Pivot Tables/DAX** for detailed sales, customer, and product trend analysis. The goal is to enhance business understanding by providing actionable insights into seasonal variations and customer purchasing behavior.
 
 ---
